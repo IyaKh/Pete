@@ -52,7 +52,9 @@ img {
 hr {
   border: 1px solid black;
 }
-
+.discription {
+text-align:center;
+}
 /* Add your solution below */
 
 .image-circle {
