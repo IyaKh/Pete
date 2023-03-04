@@ -55,7 +55,7 @@ hr {
   border: 1px solid black;
 }
 .discription {
-text-align:center;
+text-align:left;
 }
 /* Add your solution below */
 
@@ -66,4 +66,4 @@ text-align:center;
 }
 a:link{color:#d62828;}
 a:hover{color:#f77f00;}
-footer{text-align:center;}
+footer{text-align:left;}
