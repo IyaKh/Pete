@@ -31,7 +31,7 @@ article {
 
 
 article div {
- 
+ text-align:center;
   width: 100%;
 }
 
@@ -54,9 +54,7 @@ img {
 hr {
   border: 1px solid black;
 }
-.discription {
-text-align:left;
-}
+
 /* Add your solution below */
 
 .image-circle {
@@ -66,4 +64,4 @@ text-align:left;
 }
 a:link{color:#d62828;}
 a:hover{color:#f77f00;}
-footer{text-align:left;}
+footer{text-align:center;}
